@@ -1,0 +1,21 @@
+.scores {
+    background: #5d5d5d;
+    padding: 5px;
+    border-top: #946b2d solid 4px;
+    color: azure;
+    padding: 0 190px 0 245px;
+}
+
+.highScoreValue {
+    text-align: right;
+    position: relative;
+    right: 221px;
+}
+
+.scoreValue {
+    text-align: left;
+    position: relative;
+    left: 178px;
+    top: -87px;
+}
+

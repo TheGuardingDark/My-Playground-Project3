@@ -1,0 +1,30 @@
+.card {
+    background: rgb(138, 128, 128);
+    border-radius: 2px;
+    height: 197px;
+    margin: 1rem;
+    position: relative;
+    width: 325px;
+    box-shadow: 0 3px 6px #222f5b, 0 3px 6px #222f5b;
+    text-align: left;
+  }
+  
+  .card > .img-container {
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+    background:rgb(65, 75, 82);
+  }
+  .card > .img-container > img {
+    width: 100%
+  }
+  
+  .card > .content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    /* font-size: 15px; */
+  }
+  
+
+  
+  

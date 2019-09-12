@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "The Android Sent By Cyberlife",
+        "image": "https://i.postimg.cc/zfkLNgC9/connor.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 2,
+        "name": "Boomer",
+        "image": "https://i.postimg.cc/TYr50Fyd/boomer.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 3,
+        "name": "Emil",
+        "image": "https://i.postimg.cc/BvFgBMG2/Emil.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 4,
+        "name": "Ace",
+        "image": "https://i.postimg.cc/jd90qHyB/ace.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 5,
+        "name": "Aloy",
+        "image": "https://i.postimg.cc/q7TFgjqD/aloy.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 6,
+        "name": "Sean",
+        "image": "https://i.postimg.cc/26z8dQc2/sean.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 7,
+        "name": "Cassidy",
+        "image": "https://i.postimg.cc/SKkZmR1w/cassidy.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 8,
+        "name": "Chloe",
+        "image": "https://i.postimg.cc/XvLsqWTX/chloe.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 9,
+        "name": "Chris",
+        "image": "https://i.postimg.cc/XJvQyhbL/chris.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 10,
+        "name": "Daniel",
+        "image": "https://i.postimg.cc/gjXsgZr6/daniel.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 11,
+        "name": "Dogmeat",
+        "image": "https://i.postimg.cc/bY4fp0xW/Dogmeat.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 12,
+        "name": "Ellie",
+        "image": "https://i.postimg.cc/cJFPjf1D/ellie.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 13,
+        "name": "Hank",
+        "image": "https://i.postimg.cc/wxynftCV/hank.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 14,
+        "name": "Jodie",
+        "image": "https://i.postimg.cc/8k29qpDV/jodie.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 15,
+        "name": "Kara",
+        "image": "https://i.postimg.cc/5N8TJhNQ/kara.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 16,
+        "name": "Link",
+        "image": "https://i.postimg.cc/W1nyF0Z2/linkbotw.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 17,
+        "name": "Max",
+        "image": "https://i.postimg.cc/fL3qrFrL/max.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 18,
+        "name": "Nathan Drake",
+        "image": "https://i.postimg.cc/VsCH9xtZ/nathan.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 19,
+        "name": "Nonary",
+        "image": "https://i.postimg.cc/fRBHTD4y/nonary.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 20,
+        "name": "Raz",
+        "image": "https://i.postimg.cc/SKPDCdxp/raz.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 21,
+        "name": "Sora",
+        "image": "https://i.postimg.cc/sxYmFR9V/sora.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 22,
+        "name": "Sam",
+        "image": "https://i.postimg.cc/jdTvHLtC/ucsam.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 23,
+        "name": "Josh",
+        "image": "https://i.postimg.cc/qvMLFStT/udjosh.jpg",
+        "clicked": 0
+    },
+    {
+        "id": 24,
+        "name": "Joel",
+        "image": "https://i.postimg.cc/q7KCDxGr/joel.jpg",
+        "clicked": 0
+    }
+]
